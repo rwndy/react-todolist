@@ -23,7 +23,7 @@ class App extends Component {
     render() { 
       return ( 
         <div className="ui container">
-          <h1>To Do List</h1>
+          <h1>To Do Listgit remote add origin https://github.com/rwndy/react-todolist.git</h1>
           <form className="ui form" onSubmit={this.OnAddSubmit}>
             <div className="field">
               <input
